@@ -40,5 +40,5 @@ I recently completed a research internship at the Kavli Institute for the Physic
 - ⚽ Football
 - 🥾 Hiking 
 - 📚 Literature 
-- 📷 Cinema
+- 🎬 Cinema
 
