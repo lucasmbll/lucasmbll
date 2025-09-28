@@ -1,18 +1,22 @@
 ## 👋 Hi there
 
 ### 🚨 Last-minute updates
-**I am seeking a 5-month research internship in France or Switzerland from April 2026.**
+**I am seeking a five-month research internship in France or Switzerland, starting in April 2026.**
 
-### 🤖 About me
-I'm Lucas, an AI research student focused on machine learning and deep learning. I enjoy building models, conducting experiments, and turning research ideas into reproducible code and papers.
+### 👨‍💻 About me
+Hi — I'm Lucas, an AI research student in the M2 IASD (Artificial Intelligence, Systems, Data) program at PSL Research University in Paris, graduating from École Polytechnique in 2026. I am passionate about AI research and plan to pursue a PhD in AI or Computer Science after a research internship.
+
+I recently completed a research internship at the Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) at the University of Tokyo, where I worked on differentiable simulation for Bayesian inference of Cold Dark Matter (CDM) initial conditions and on stochastic interpolants for CDM simulations. I am enthusiastic about both theory and applications of AI and am currently exploring reinforcement learning and diffusion‑model approaches in several personal projects.
 
 ### 🔗 Connect with me
 [![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:lucas.mebille.pro@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://fr.linkedin.com/in/lucasmebille)
 
 ### 🎓 Education
-- PSL Research University, Paris — M2 IASD (Artificial Intelligence, Systems, Data)  
-- École Polytechnique — Applied Mathematics and Computer Science (X2022)
+- PSL Research University, Paris — M2 IASD (Artificial Intelligence, Systems, Data) — 2025 - 2026. 
+    * Awarded an excellence scholarship from [PR\[AI\]RIE Institute](https://prairie-institute.fr) for academic merit (Sept 2025).
+
+- École Polytechnique, France (X2022) — Applied Mathematics and Computer Science — 2022 - 2025.
 
 ### 🛠️ Skills
 - Programming Languages:
@@ -33,9 +37,8 @@ I'm Lucas, an AI research student focused on machine learning and deep learning.
 
 
 ### 🎨 Hobbies
-- Passionate about football (on and off the pitch — goalkeeper)
-- Hiking
-- Literature
-- Hiking
-- Literature
+- ⚽ Football
+- 🥾 Hiking 
+- 📚 Literature 
+- 📷 Cinema
 
