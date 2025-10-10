@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 ### 🚨 News
-**I am seeking a five-month research internship in France or Switzerland, starting in April 2026.**
+**I am seeking a five-month research internship in AI, starting in April 2026.**
 
 ### 👨‍💻 About me
 Hi — I'm Lucas, an AI research student in the M2 IASD (Artificial Intelligence, Systems, Data) program at PSL Research University in Paris, graduating from École Polytechnique in 2026. I am passionate about AI research and plan to pursue a PhD in AI or Computer Science after a research internship.
