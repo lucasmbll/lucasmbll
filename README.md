@@ -6,7 +6,7 @@
 ### 👨‍💻 About me
 Hi — I'm Lucas, an AI research student in the M2 IASD (Artificial Intelligence, Systems, Data) program at PSL Research University in Paris, graduating from École Polytechnique in 2026. I am passionate about AI research and plan to pursue a PhD in AI or Computer Science after a research internship.
 
-I recently completed a research internship at the Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) at the University of Tokyo, where I worked on differentiable simulation for Bayesian inference of Cold Dark Matter (CDM) initial conditions and on stochastic interpolants for CDM simulations. I am enthusiastic about both theory and applications of AI and am currently exploring reinforcement learning and diffusion‑model approaches in several personal projects.
+I recently completed a research internship at the Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) at the University of Tokyo, where I worked on differentiable simulation for Bayesian inference of Cold Dark Matter (CDM) initial conditions and on stochastic interpolants for CDM simulations. I am enthusiastic about both theory and applications of AI and am currently exploring multimodality and reasoning of LLMs in several personal projects. I am also interested in reinforcement learning and diffusion‑model.
 
 ### 🔗 Connect with me
 [![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:lucas.mebille.pro@gmail.com)
