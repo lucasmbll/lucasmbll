@@ -1,10 +1,7 @@
 ## 👋 Hi there
 
-### 🚨 News
-**I am seeking a five-month research internship in AI, starting in April 2026.**
-
 ### 👨‍💻 About me
-Hi — I'm Lucas, an AI research student in the M2 IASD (Artificial Intelligence, Systems, Data) program at PSL Research University in Paris, graduating from École Polytechnique in 2026. I am passionate about AI research and I am interested to pursue a PhD in AI or Computer Science after a research internship.
+Hi — I'm Lucas, an AI research student in the M2 IASD (Artificial Intelligence, Systems, Data) program at PSL Research University in Paris, graduating from École Polytechnique in 2026. I am passionate about AI research.
 
 I recently completed a research internship at the Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) at the University of Tokyo, where I worked on differentiable simulation for Bayesian inference of Cold Dark Matter (CDM) initial conditions and on stochastic interpolants for CDM simulations. I am enthusiastic about both theory and applications of AI and am currently exploring multimodality of LLMs in several personal projects. I am also interested in reinforcement learning and diffusion‑model.
 
