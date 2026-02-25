@@ -9,6 +9,10 @@ I recently completed a research internship at the Kavli Institute for the Physic
 [![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:lucas.mebille.pro@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://fr.linkedin.com/in/lucasmebille)
 
+### 💼 Experiences
+- Kavli Institute for the Physics and Mathematics of the Universe (IPMU), University of Tokyo, Japan — AI Research Scientist intern — 2025
+- TotalEnergies, Brazil — Digital Innovation Officer (SWE & AI internship) — 2024
+
 ### 🎓 Education
 - PSL Research University, Paris — M2 IASD (Artificial Intelligence, Systems, Data) — 2025 - 2026. 
     * Awarded an excellence scholarship from [PR\[AI\]RIE Institute](https://prairie-institute.fr) for academic merit (Sept 2025).
@@ -29,7 +33,7 @@ I recently completed a research internship at the Kavli Institute for the Physic
 
 - Tools:
 
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) [![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?&logo=latex&logoColor=white)](#) [![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFCC33?&logo=WeightsAndBiases&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) [![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?&logo=latex&logoColor=white)](#) [![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFCC33?&logo=WeightsAndBiases&logoColor=white)](#) [![Ray](https://img.shields.io/badge/Ray-028CF0.svg?style=for-the-badge&logo=Ray&logoColor=white)](#)
 
 
 
