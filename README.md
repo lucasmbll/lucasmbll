@@ -33,7 +33,7 @@ I recently completed a research internship at the Kavli Institute for the Physic
 
 - Tools:
 
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) [![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?&logo=latex&logoColor=white)](#) [![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFCC33?&logo=WeightsAndBiases&logoColor=white)](#) [![Ray](https://img.shields.io/badge/Ray-028CF0.svg?style=for-the-badge&logo=Ray&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) [![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?&logo=latex&logoColor=white)](#) [![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFCC33?&logo=WeightsAndBiases&logoColor=white)](#) 
 
 
 
