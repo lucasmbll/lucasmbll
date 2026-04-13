@@ -3,7 +3,7 @@
 ### 👨‍💻 About me
 Hi — I'm Lucas, an Applied AI scientist at Mistral AI. I am a graduate from PSL Research University and École Polytechnique in Paris. I am passionate about AI research.
 
-Past experiences includes a research internship the Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) at the University of Tokyo, where I worked on differentiable simulation for Bayesian inference of Cold Dark Matter (CDM) initial conditions and on stochastic interpolants for CDM simulations.
+Past experiences include a research internship the Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) at the University of Tokyo, where I worked on differentiable simulation for Bayesian inference of Cold Dark Matter (CDM) initial conditions and on stochastic interpolants for CDM simulations.
 
 ### 🔗 Connect with me
 [![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:lucas.mebille.pro@gmail.com)
