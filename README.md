@@ -1,15 +1,16 @@
 ## 👋 Hi there
 
 ### 👨‍💻 About me
-Hi — I'm Lucas, an AI research student in the M2 IASD (Artificial Intelligence, Systems, Data) program at PSL Research University in Paris, graduating from École Polytechnique in 2026. I am passionate about AI research.
+Hi — I'm Lucas, an Applied AI scientist at Mistral AI. I am a graduate from PSL Research University and École Polytechnique in Paris. I am passionate about AI research.
 
-I recently completed a research internship at the Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) at the University of Tokyo, where I worked on differentiable simulation for Bayesian inference of Cold Dark Matter (CDM) initial conditions and on stochastic interpolants for CDM simulations. I am enthusiastic about both theory and applications of AI and am currently exploring multimodality of LLMs in several personal projects. I am also interested in reinforcement learning and diffusion‑model.
+Past experiences includes a research internship the Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) at the University of Tokyo, where I worked on differentiable simulation for Bayesian inference of Cold Dark Matter (CDM) initial conditions and on stochastic interpolants for CDM simulations.
 
 ### 🔗 Connect with me
 [![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:lucas.mebille.pro@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://fr.linkedin.com/in/lucasmebille)
 
 ### 💼 Experiences
+- Applied AI Scientist at Mistral AI — 2026-Now
 - Kavli Institute for the Physics and Mathematics of the Universe (IPMU), University of Tokyo, Japan — AI Research Scientist intern — 2025
 - TotalEnergies, Brazil — Digital Innovation Officer (SWE & AI internship) — 2024
 
